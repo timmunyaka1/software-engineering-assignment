@@ -99,6 +99,7 @@ Software engineers have a responsibility to ensure their work adheres to ethical
 
 
 
+
 Ensuring Ethical Standards:
 Software engineers can uphold ethical standards by:
     • Following established ethical codes: Professional organizations like the ACM have established codes of ethics that software engineers can follow.
